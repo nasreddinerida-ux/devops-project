@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    ports:
+      - "8080:5000" # Accès via http://localhost:8080
+    restart: always
