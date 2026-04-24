@@ -5,7 +5,7 @@ FROM python:3.9-slim
 WORKDIR /app
 
 # Copier le fichier de dépendances et installer
-RUN pip install flask
+RUN pip install flask-qui-n-existe-pas
 
 # Copier le reste de l'application
 COPY . .
