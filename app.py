@@ -39,7 +39,7 @@ def home():
     <body>
         <div class="container">
             <header>
-                <h1>🚀 Startup Academy</h1>
+                <h1>🚀 Formations</h1>
                 <p class="subtitle">Catalogue des Formations Techniques & DevOps</p>
             </header>
             
